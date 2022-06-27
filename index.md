@@ -1,53 +1,82 @@
-## Welcome to Zhijie Shen's Pages
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Zhijie Shen</h1>
-      <p><b>PhD candidate</b></p>
-      <p><b>MePro team, Institute of Information Science, Beijing Jiaotong University</b></p>
-      <p><b>Email：zhjshen@bjtu.edu.cn</b></p>
-      <p><b>Address：6th Floor, 9th Building, Beijing Jiaotong University,   No.3 Shangyuancun,   Haidian District, Beijing.</b></p>
-      <p><b>Zip Code: 100044</b></p>
-    </td>
-    <td width="25%">
-      <img src="/JayShen.png" width="100%">
-    </td>
-  </tr>
-</table>
+## Watson - vCard / Resume/ CV Template
 
-You can use the [editor on GitHub](https://github.com/zhijieshen-bjtu/zhijieshen-bjtu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Philip Watson
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Philip Watson
 
-### Markdown
+### Philip Watson
+![profile-pic](img/profile-img.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   Home
+*   About Me
+*   Resume
+*   Portfolio
+*   Blog
+*   Contact
 
-```markdown
-Syntax highlighted code block
+*   
+*   
+*   
+*   
+*   
 
-# Header 1
-## Header 2
-### Header 3
+> 2018 © Cosmos-Themes.  
+All Right Reserved.
 
-- Bulleted
-- List
+![](img/blog/blog-page-img.jpg)
 
-1. Numbered
-2. List
+Fashion
+## Best Way To Design
 
-**Bold** and _Italic_ and `Code` text
+January 20, 2018
 
-[Link](url) and ![Image](src)
-```
+> Consectetur rerum veniam vitae sequi voluptatibus unde soluta dolorum. Sint maxime ducimus tenetur vitae corrupti saepe. Veniam sit ea aliquid odit officiis. Quisquam at labore eum commodi in eius In quisquam a a eaque fuga? Debitis magnam deserunt libero voluptates esse at possimus? Voluptatum voluptates exercitationem voluptatum accusantium doloremque nihil, nihil molestias voluptatibus, minus nostrum, aliquid Quisquam neque fugiat quos veniam facere Dicta eaque laboriosam ut voluptas ipsum Officiis nisi maxime soluta optio ipsum quam Dolores aperiam explicabo sed quas unde laborum molestiae. Porro cum incidunt enim minus nisi excepturi rerum! Exercitationem quia excepturi reiciendis illum velit! Consequatur tempora nihil
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> Sit exercitationem accusamus repudiandae libero natus vero aut Consectetur magni totam sint animi expedita? Eos consequatur facilis corrupti voluptatibus asperiores dolorum vitae ipsa laudantium repellat Voluptates voluptates corporis illum ut asperiores possimus officiis! Laborum rerum eaque minus harum doloremque debitis Ducimus sed commodi commodi illo aliquam. Magnam ipsa blanditiis blanditiis veniam aut Magni unde voluptates culpa dicta placeat! Incidunt delectus beatae excepturi perspiciatis libero praesentium illo Atque sit asperiores unde dolorem cupiditate, nostrum Alias illum voluptate eos commodi modi? Minus est fugiat labore earum obcaecati, omnis. Dicta fugit quod harum eius atque? Exercitationem impedit deleniti quidem voluptas eum cupiditate Consectetur
 
-### Jekyll Themes
+> Consectetur omnis eveniet possimus est necessitatibus. Dolorum magnam officiis ad fugit cumque? Voluptatibus laboriosam incidunt voluptatum beatae dignissimos, nostrum iusto error Optio quam modi adipisci cumque delectus Voluptates iusto doloremque.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhijieshen-bjtu/zhijieshen-bjtu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> Dolor amet culpa esse cum in? Id ab neque ipsa sapiente impedit doloremque quod. Velit veniam in odio voluptatem doloribus Minus laborum voluptates sed ea vel? Aspernatur in quos nulla veniam tempore In quibusdam reprehenderit maiores iste ab Est quae magni nemo repudiandae soluta? Eius qui veniam voluptatem iure molestiae
 
-### Support or Contact
+#### Post Comments
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*   ![](img/blog/authors/author-1.jpg)
+
+    Reply
+
+    ###### Jane Doe
+
+    June 10, 2018 at 5:39 am
+
+    > Deep v cliche lomo biodiesel Neutra selfies. Shorts fixie consequat flexitarian four loko
+
+*   ![](img/blog/authors/author-2.jpg)
+
+    Reply
+
+    ###### Jane Doe
+
+    June 10, 2018 at 5:39 am
+
+    > Deep v cliche lomo biodiesel Neutra selfies. Shorts fixie consequat flexitarian four loko
+
+*   ![](img/blog/authors/author-3.jpg)
+
+    Reply
+
+    ###### Jane Doe
+
+    June 10, 2018 at 5:39 am
+
+    > Deep v cliche lomo biodiesel Neutra selfies. Shorts fixie consequat flexitarian four loko
+
+#### Leave A Reply
+
+ Name
+
+ Email
+
+Your Comment
+
+Post Comment
