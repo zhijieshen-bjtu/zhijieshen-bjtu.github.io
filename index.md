@@ -3,14 +3,15 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Zhijie Shen</h1>
+      <p><b>PhD candidate</b></p>
+      <p><b>MePro team, Institute of Information Science, Beijing Jiaotong University</b></p>
+      <p><b>Email：zhjshen@bjtu.edu.cn</b></p>
+      <p><b>Address：6th Floor, 9th Building, Beijing Jiaotong University,   No.3 Shangyuancun,   Haidian District, Beijing.</b></p>
+      <p><b>Zip Code: 100044</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/JayShen.png" width="100%">
     </td>
   </tr>
 </table>
